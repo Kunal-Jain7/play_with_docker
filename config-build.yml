@@ -1,0 +1,6 @@
+images:
+  accounting:
+    action: CREATE
+    repo_path: src/accounting
+    docker_file: Dockerfile
+    image_tag: v2
